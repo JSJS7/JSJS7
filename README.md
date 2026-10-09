@@ -6,7 +6,7 @@ I'm interested in software development and computer science.
 
 ## Projects
 
-### StockEngine
+### BeyondCandles
 An application for stock search, portfolio tracking, and fundamental analysis.
 
 ### Tic-Tac-Toe Multiplayer
